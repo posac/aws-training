@@ -1,0 +1,37 @@
+EC2 - elastic cloud computing
+- on demond
+- reserved
+- spot
+- dedicated 
+
+DR MC GIFT PX
+D - Density
+R - RAM
+M - standard use - web appication
+G - Graphics
+I - IO opt
+F - something field programmable gate arrays - hardware optimized
+T - chipest
+P - Graphics
+X- Extreamly optimized ram ?
+
+EBS == disk
+- SSD, General
+- SSD Provisioned
+- HDD, throughput opt
+- HHS, COLD -sc1
+- HHD - Magnetic
+
+Limitations 
+- Unable to attach to multiple EC2. To do this check EFS
+
+
+one subnet == 1 AZ
+
+
+
+default root - cannot be encrypted by default - you can use third party tool - bit locker to encrypt root devices... 
+
+
+additional volumes can be encrypted without any additional third party.;) 
+
